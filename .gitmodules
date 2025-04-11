@@ -1,3 +1,6 @@
 [submodule "mvn-repo"]
 	path = mvn-repo
 	url = https://github.com/zack-test-deploy/mvn-repo
+[submodule "libs/mvn-repo"]
+	path = libs/mvn-repo
+	url = https://github.com/zack-test-deploy/mvn-repo
